@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chalme25/Toronto-Restaurants/static/css/main.98a8ba28.css",
+    "main.js": "/chalme25/Toronto-Restaurants/static/js/main.830098a7.js",
+    "index.html": "/chalme25/Toronto-Restaurants/index.html",
+    "main.98a8ba28.css.map": "/chalme25/Toronto-Restaurants/static/css/main.98a8ba28.css.map",
+    "main.830098a7.js.map": "/chalme25/Toronto-Restaurants/static/js/main.830098a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98a8ba28.css",
+    "static/js/main.830098a7.js"
+  ]
+}
