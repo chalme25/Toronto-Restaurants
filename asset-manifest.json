@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Toronto-Restaurants/static/css/main.98a8ba28.css",
-    "main.js": "/Toronto-Restaurants/static/js/main.830098a7.js",
-    "index.html": "/Toronto-Restaurants/index.html",
-    "main.98a8ba28.css.map": "/Toronto-Restaurants/static/css/main.98a8ba28.css.map",
-    "main.830098a7.js.map": "/Toronto-Restaurants/static/js/main.830098a7.js.map"
+    "main.css": "/toronto-restaurants/static/css/main.98a8ba28.css",
+    "main.js": "/toronto-restaurants/static/js/main.830098a7.js",
+    "index.html": "/toronto-restaurants/index.html",
+    "main.98a8ba28.css.map": "/toronto-restaurants/static/css/main.98a8ba28.css.map",
+    "main.830098a7.js.map": "/toronto-restaurants/static/js/main.830098a7.js.map"
   },
   "entrypoints": [
     "static/css/main.98a8ba28.css",
